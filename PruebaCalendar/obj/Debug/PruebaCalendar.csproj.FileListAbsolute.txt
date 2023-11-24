@@ -1,0 +1,12 @@
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\bin\Debug\PruebaCalendar.exe.config
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\bin\Debug\PruebaCalendar.exe
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\bin\Debug\PruebaCalendar.pdb
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.csproj.AssemblyReference.cache
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.Form1.resources
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.Properties.Resources.resources
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.UserControl1.resources
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.UserControlDay.resources
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.csproj.GenerateResource.cache
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.csproj.CoreCompileInputs.cache
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.exe
+C:\Users\jose-\source\repos\PruebaCalendar\PruebaCalendar\obj\Debug\PruebaCalendar.pdb
